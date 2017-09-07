@@ -1,10 +1,14 @@
 # Sharif University CTF 2016 : dMd
 
+- Points : 50
+- Solves : 243
+- Description :
+```
+Flag is : The valid input
 
-## Writeups
-<details>
- <summary>一行Write up</summary>
- 入力のmd5を一文字ずつ比較するだけのバイナリ．md5の結果が分かるので[MD5 Decrypter](http://www.md5online.org)などで元に戻せばフラグが得られる．
-</details>
+Download dMd
+```
 
-[Write up](baby/dMd/writeup.md)
+## [attachment](baby/dMd/dMd)
+
+## [Write up](baby/dMd/writeup.md)
