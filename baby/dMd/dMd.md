@@ -9,6 +9,6 @@ Flag is : The valid input
 Download dMd
 ```
 
-## [attachment](baby/dMd/dMd)
+## [attachment](dMd.7z)
 
-## [Write up](baby/dMd/writeup.md)
+## [Write up](writeup.md)
