@@ -1,0 +1,227 @@
+criterions:
+  - Baby
+  - Easy
+  - Medium Easy
+  - Medium Medium
+  - Medium Hard
+  - Hard
+
+problems:
+  Baby:
+    - ctf_name:      Sharif University CTF 2016
+      problem_name:  dMd
+      points:        50
+      solves:        243
+      description: |
+        Flag is : The valid input
+        Download dMd
+      flag:          grape
+
+    - ctf_name:      Sharif University CTF 2016
+      problem_name:  SRM
+      points:        50
+      solves:        173
+      description: |
+        The flag is : The valid serial number
+        Download RM.exe
+      flag:          CZ9dmq4c8g9G7bAX
+    
+    - ctf_name:      Sharif University CTF 2016
+      problem_name:  Serial
+      points:        150
+      solves:        108
+      description: |
+        Run and capture the flag!
+        Download serial
+      flag:          EZ9dmq4c8g9G7bAV
+    
+    - ctf_name:      Sharif University CTF 2016
+      problem_name:  Android App
+      points:        100
+      solves:        58
+      description: |
+        Find the Flag!!
+        Download Sharif_CTF.apk
+      flag:          Sharif_CTF{833489ef285e6fa80690099efc5d9c9d}
+    
+    - ctf_name:      Internetwache CTF 2016
+      problem_name:  SPIM
+      points:        50
+      solves:        208
+      description: |
+        Description: My friend keeps telling me, that real hackers speak assembly fluently. Are you a real hacker? Decode this string: "IVyN5U3X)ZUMYCs"
+      flag:          IW{M1P5_!S_FUN}
+    
+    - ctf_name:      Internetwache CTF 2016
+      problem_name:  File Checker
+      points:        60
+      solves:        190
+      description: |
+        Description: My friend sent me this file. He told that if I manage to reverse it, I'll have access to all his devices. My misfortune that I don't know anything about reversing :/
+        Attachment: rev60.zip
+      flag:          IW{FILE_CHeCKa}
+
+    - ctf_name:      Internetwache CTF 2016
+      problem_name:  ServerfARM
+      points:        70
+      solves:        156
+      description: |
+        Description: Someone handed me this and told me that to pass the exam, I have to extract a secret string. I know cheating is bad, but once does not count. So are you willing to help me?
+        Attachment: rev70.zip
+      flag:          IW{S.E.R.V.E.R>=F:A:R:M}
+
+    - ctf_name:      Nuit du Hack CTF Quals 2016
+      problem_name:  Matriochka - Step 1
+      points:        50
+      solves:        432
+      description: |
+        Can you help me?
+        Recently, I found an executable binary.
+        As I'm a true newbie,
+        Certainly, to solve it, I will have difficulties.
+        Keep in mind, the first step is quite easy.
+        Maybe the last one will be quite tricky.
+        Emulating it could be a good idea.
+        The challenge is available at : http://static.quals.nuitduhack.com/stage1.bin
+      flag:          Much_secure__So_safe__Wow
+    
+    - ctf_name:      Nuit du Hack CTF Quals 2016
+      problem_name:  Matriochka - Step 2
+      points:        100
+      solves:        232
+      description: |
+        Can you help me?
+        Recently, I found an executable binary.
+        As I'm a true newbie,
+        Certainly, to solve it, I will have difficulties.
+        Keep in mind, the first step is quite easy.
+        Maybe the last one will be quite tricky.
+        Emulating it could be a good idea.
+        You must solve step 1 first.
+      flag:          Pandi_panda
+    
+    - ctf_name:      Nuit du Hack CTF Quals 2016
+      problem_name:  Matriochka - Step 3
+      points:        300
+      solves:        185
+      description: |
+        Recently, I found an executable binary.
+        As I'm a true newbie,
+        Certainly, to solve it, I will have difficulties.
+        Keep in mind, the first step is quite easy.
+        Maybe the last one will be quite tricky.
+        Emulating it could be a good idea.
+        You must solve steps 1 and 2 first.
+      flag:          Did_you_like_signals?
+
+  Easy:
+
+    - ctf_name:      SSCTF 2016
+      problem_name:  Re1
+      points:        100
+      solves:        83
+      description: |
+        Null
+      flag:          SSCTF{oty3eaP$g986iwhw32j%OJ)g0o7J.CG:}
+
+    - ctf_name:      0CTF 2016 Quals
+      problem_name:  boomshakalaka
+      points:        3
+      solves:        35
+      description: |
+        play the game, get the highest score
+      flag:          0ctf{C0coS2d_AnDro1d_G0mE_YoU_Kn0w?}
+
+  Medium Easy:
+    - ctf_name:      SSCTF 2016 Quals
+      problem_name:  Re2
+      points:        200
+      solves:        53
+      description: |
+        Do You Like Bad Apple
+      flag:          JZZZXZYP{8ZBIzPL0HPAFwdqZ{3ZXRad
+      
+    - ctf_name:      SSCTF 2016 Quals
+      problem_name:  Re3
+      points:        300
+      solves:        32
+      description: |
+        I Am The Prompt。
+      flag:          f5b760b64D867618fFeF48FdE92B4e5d
+      
+    - ctf_name:      Boston Key Party CTF 2016
+      problem_name:  Jit in my pants
+      points:        3
+      solves:        38
+      description: |
+        Because reversing an obfuscated jit'ed virtual machine for 3 points is fun!
+      flag:          BKPCTF{S1de_Ch4nnel_att4cks_are_s0_1338}
+      
+    - ctf_name:      0CTF 2016 Quals
+      problem_name:  momo
+      points:        3
+      solves:        31
+      description: |
+        I think it's hard winning a war with words.
+      flag:          0ctf{m0V_I5_tUr1N9_c0P1Et3!}
+      
+    - ctf_name:      VolgaCTF 2016 Quals
+      problem_name:  Broken
+      points:        200
+      solves:        
+      description: |
+        This might be a part of GAI, but it must have been broken... Could you fix it?
+      flag:          VolgaCTF{avoid_de@dl0cks_they_br3akyour@pp}
+      
+    - ctf_name:      PlaidCTF 2016
+      problem_name:  quick
+      points:        175
+      solves:        49
+      description: |
+        Why be slow when you can be quick?
+      flag:          PCTF{5ur3_a5_5ur3_5w1ft_a5_5w1ft}
+
+  Medium Medium:
+    - ctf_name:      Boston Key Party CTF 2016
+      problem_name:  unholy
+      points:        4
+      solves:        61
+      description: |
+        python or ruby? why not both!
+      flag:          BKPCTF{hmmm _why did i even do this}
+
+    - ctf_name:      0CTF 2016 Quals
+      problem_name:  trace
+      points:        4
+      solves:        33
+      description: |
+        follow the trace trace.log
+        update:
+        the flag is at 0x400D80
+        (uint32_t)0x00410EA0 == 0x400D80
+      flag:          0ctf{tr135m1k5l96551s9l5r}
+
+    - ctf_name:      Nuit du Hack CTF Quals 2016
+      problem_name:  Matriochka - Step 4
+      points:        500
+      solves:        51
+      description: |
+        Recently, I found an executable binary.
+        As I'm a true newbie,
+        Certainly, to solve it, I will have difficulties.
+        Keep in mind, the first step is quite easy.
+        Maybe the last one will be quite tricky.
+        Emulating it could be a good idea.
+        You must solve steps 1, 2 and 3 first.
+      flag:          Ddr1ml/frf
+
+    - ctf_name:      PlaidCTF 2016
+      problem_name:  quite quixotic quest
+      points:        300
+      solves:        40
+      description: |
+        Well yes, it certainly is quite quixotic. (Yes, the flag format is PCTF{} )
+      flag:          PCTF{just_a_l1ttle_thing_1_l1ke_t0_call_ropfuscation}
+
+  Medium Hard:
+  Hard:
