@@ -132,6 +132,30 @@ problems:
         play the game, get the highest score
       flag:          0ctf{C0coS2d_AnDro1d_G0mE_YoU_Kn0w?}
 
+    - ctf_name:      Codegate CTF 2018 Preliminary
+      problem_name:  RedVelvet
+      points:        75
+      solves:        126
+      description: |
+        Happiness:)
+      flag:          What_You_Wanna_Be?:)_la_la
+
+    - ctf_name:      Codegate CTF 2018 Preliminary
+      problem_name:  Welcome to droid
+      points:        125
+      solves:        71
+      description: |
+        > o <
+      flag:          FLAG{W3_w3r3_Back_70_$3v3n7een!!!}
+
+    - ctf_name:      Codegate CTF 2018 Preliminary
+      problem_name:  easy_serial
+      points:        350
+      solves:        40
+      description: |
+        Null
+      flag:          Flag{S0me0fU5#4r3L00king#AtTh3St4rs}
+
   Medium Easy:
     - ctf_name:      SSCTF 2016 Quals
       problem_name:  Re2
@@ -222,6 +246,14 @@ problems:
       description: |
         Well yes, it certainly is quite quixotic. (Yes, the flag format is PCTF{} )
       flag:          PCTF{just_a_l1ttle_thing_1_l1ke_t0_call_ropfuscation}
+
+    - ctf_name:      Codegate CTF 2018 Preliminary
+      problem_name:  6051
+      points:        880
+      solves:        11
+      description: |
+        find the flag
+      flag:        FLAG{w0w_w0w_w0w_s1mp13_str1n9_c0mpr3ss10n_1011110100011}
 
   Medium Hard:
   Hard:
