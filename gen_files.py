@@ -14,7 +14,7 @@ def gen_main_readme(conf):
             continue
         for p in problems[c]:
             ctf_name = p['ctf_name']
-            problem_name = p['problem_name']
+            problem_name = str(p['problem_name'])
             f.write(' * [{0:s} : {1:s}]({2:s}/{3:s}/README.md)\n'.format(ctf_name, problem_name, c.replace(' ', '_'), ctf_name.replace(' ', '_') + '_' + problem_name.replace(' ', '_')))
         f.write('\n')
 
@@ -28,7 +28,7 @@ def gen_problem_dirs(conf):
             continue
         for p in problems[c]:
             ctf_name = p['ctf_name']
-            problem_name = p['problem_name']
+            problem_name = str(p['problem_name'])
             try:
                 os.makedirs('{0:s}/{1:s}'.format(c.replace(' ', '_'), ctf_name.replace(' ', '_') + '_' + problem_name.replace(' ', '_')))
             except FileExistsError:
@@ -60,7 +60,7 @@ def gen_problem_files(conf):
             continue
         for p in problems[c]:
             ctf_name = p['ctf_name']
-            problem_name = p['problem_name']
+            problem_name = str(p['problem_name'])
             points = p['points']
             solves = p['solves']
             description = p['description']
