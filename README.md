@@ -25,6 +25,7 @@
  * [0CTF 2016 Quals : momo](Medium_Easy/0CTF_2016_Quals_momo/README.md)
  * [VolgaCTF 2016 Quals : Broken](Medium_Easy/VolgaCTF_2016_Quals_Broken/README.md)
  * [PlaidCTF 2016 : quick](Medium_Easy/PlaidCTF_2016_quick/README.md)
+ * [starctf 2018 : milktea](Medium_Easy/starctf_2018_milktea/README.md)
 
 ## Medium Medium
  * [Boston Key Party CTF 2016 : unholy](Medium_Medium/Boston_Key_Party_CTF_2016_unholy/README.md)
@@ -37,6 +38,9 @@
  * [0CTF/TCTF 2018 Quals : g0g0g0](Medium_Medium/0CTF_TCTF_2018_Quals_g0g0g0/README.md)
  * [0CTF/TCTF 2018 Quals : udp](Medium_Medium/0CTF_TCTF_2018_Quals_udp/README.md)
  * [0CTF/TCTF 2018 Quals : Baby VM](Medium_Medium/0CTF_TCTF_2018_Quals_Baby_VM/README.md)
+ * [starctf 2018 : fans_of_xdd](Medium_Medium/starctf_2018_fans_of_xdd/README.md)
+ * [starctf 2018 : BabyDroid](Medium_Medium/starctf_2018_BabyDroid/README.md)
+ * [starctf 2018 : wasm](Medium_Medium/starctf_2018_wasm/README.md)
 
 ## Medium Hard
  * [N1CTF 2018 : LFI](Medium_Hard/N1CTF_2018_LFI/README.md)

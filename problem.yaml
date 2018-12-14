@@ -205,6 +205,14 @@ problems:
         Why be slow when you can be quick?
       flag:          PCTF{5ur3_a5_5ur3_5w1ft_a5_5w1ft}
 
+    - ctf_name:      starctf 2018
+      problem_name:  milktea
+      points:        526
+      solves:        19
+      description: |
+        Null
+      flag:          '*ctf{h0w_m4ny_x0r_3qu1v4l3n7_3xpr35510n_y0u_kn0wlol}'
+
   Medium Medium:
     - ctf_name:      Boston Key Party CTF 2016
       problem_name:  unholy
@@ -248,7 +256,7 @@ problems:
       flag:          PCTF{just_a_l1ttle_thing_1_l1ke_t0_call_ropfuscation}
 
     - ctf_name:      Codegate CTF 2018 Preliminary
-      problem_name:  6051
+      problem_name:  '6051'
       points:        880
       solves:        11
       description: |
@@ -297,6 +305,32 @@ problems:
       description: |
         Flag is in the current directory with name "flag.txt".
       flag:          Null
+
+    - ctf_name:      starctf 2018
+      problem_name:  fans_of_xdd
+      points:        952
+      solves:        2
+      description: |
+        I'm new to ctf. I don't know how to reenigne, so x140dada tell me that, i should learn it by reading this file. Can you help me?
+        you need a mac, sorry to windows/linux users
+      flag:          '*ctf{i_4m_not_b1G_fAns_0f_M4c5cr1pT>.<}'
+
+    - ctf_name:      starctf 2018
+      problem_name:  BabyDroid
+      points:        645
+      solves:        12
+      description: |
+        Hint1 : It's not neccessary to run the apk. If you want to run it, we suggest you to use Android with Dalvik on real phone. If you failed to run the apk, pls just try to reverse it statically.
+        Hint2 : submit *ctf{what_you_input}
+      flag:          '*ctf{1nTr3stIng-AnDr0id-A&D!}'
+
+    - ctf_name:      starctf 2018
+      problem_name:  wasm
+      points:        714
+      solves:        9
+      description: |
+        Webassembly is interesting.
+      flag:          '*ctf{web4ss3mbly_1s_god}'
 
   Medium Hard:
     - ctf_name:      N1CTF 2018
