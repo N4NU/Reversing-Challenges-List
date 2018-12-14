@@ -34,10 +34,15 @@
  * [Codegate CTF 2018 Preliminary : 6051](Medium_Medium/Codegate_CTF_2018_Preliminary_6051/README.md)
  * [N1CTF 2018 : patience](Medium_Medium/N1CTF_2018_patience/README.md)
  * [N1CTF 2018 : baby_neural_network](Medium_Medium/N1CTF_2018_baby_neural_network/README.md)
+ * [0CTF/TCTF 2018 Quals : g0g0g0](Medium_Medium/0CTF_TCTF_2018_Quals_g0g0g0/README.md)
+ * [0CTF/TCTF 2018 Quals : udp](Medium_Medium/0CTF_TCTF_2018_Quals_udp/README.md)
+ * [0CTF/TCTF 2018 Quals : Baby VM](Medium_Medium/0CTF_TCTF_2018_Quals_Baby_VM/README.md)
 
 ## Medium Hard
  * [N1CTF 2018 : LFI](Medium_Hard/N1CTF_2018_LFI/README.md)
  * [N1CTF 2018 : baby unity3d](Medium_Hard/N1CTF_2018_baby_unity3d/README.md)
+ * [0CTF/TCTF 2018 Quals : Milk Tea Machine](Medium_Hard/0CTF_TCTF_2018_Quals_Milk_Tea_Machine/README.md)
+ * [0CTF/TCTF 2018 Quals : Provisioning](Medium_Hard/0CTF_TCTF_2018_Quals_Provisioning/README.md)
 
 ## Hard
  * [N1CTF 2018 : OldDriver of Akina](Hard/N1CTF_2018_OldDriver_of_Akina/README.md)
