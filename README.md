@@ -32,6 +32,13 @@
  * [Nuit du Hack CTF Quals 2016 : Matriochka - Step 4](Medium_Medium/Nuit_du_Hack_CTF_Quals_2016_Matriochka_-_Step_4/README.md)
  * [PlaidCTF 2016 : quite quixotic quest](Medium_Medium/PlaidCTF_2016_quite_quixotic_quest/README.md)
  * [Codegate CTF 2018 Preliminary : 6051](Medium_Medium/Codegate_CTF_2018_Preliminary_6051/README.md)
+ * [N1CTF 2018 : patience](Medium_Medium/N1CTF_2018_patience/README.md)
+ * [N1CTF 2018 : baby_neural_network](Medium_Medium/N1CTF_2018_baby_neural_network/README.md)
 
 ## Medium Hard
+ * [N1CTF 2018 : LFI](Medium_Hard/N1CTF_2018_LFI/README.md)
+ * [N1CTF 2018 : baby unity3d](Medium_Hard/N1CTF_2018_baby_unity3d/README.md)
+
 ## Hard
+ * [N1CTF 2018 : OldDriver of Akina](Hard/N1CTF_2018_OldDriver_of_Akina/README.md)
+

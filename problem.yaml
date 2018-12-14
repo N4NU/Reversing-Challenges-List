@@ -253,7 +253,52 @@ problems:
       solves:        11
       description: |
         find the flag
-      flag:        FLAG{w0w_w0w_w0w_s1mp13_str1n9_c0mpr3ss10n_1011110100011}
+      flag:          FLAG{w0w_w0w_w0w_s1mp13_str1n9_c0mpr3ss10n_1011110100011}
+
+    - ctf_name:      N1CTF 2018
+      problem_name:  patience
+      points:        769
+      solves:        7
+      description: |
+        You will get the flag...... eventually!
+      flag:          N1CTF{did_cmm_helped?1109ef6af4b2c6fc274ddc16ff8365d1}
+
+    - ctf_name:      N1CTF 2018
+      problem_name:  baby_neural_network
+      points:        740
+      solves:        8
+      description: |
+        Null
+      flag:          N1CTF{N3ural_Network_1s_Really_Fantastic}
 
   Medium Hard:
+    - ctf_name:      N1CTF 2018
+      problem_name:  LFI
+      points:        833
+      solves:        5
+      description: |
+        Please use LuaJIT 2.0.5 to run.
+        Hint1 : T-boxes:11(10 useful+1 null)*16*256 TyiTables:4*256*4
+        Hint2 : dynamic link version: https://www.dropbox.com/s/jbha9z3b5jxkt43/LFI_DynamicLink.zip?dl=0
+        Hint: If you can't understand func1, you can reverse func2(which is loaded at runtime) first to get some ideas.
+      flag:          N1CTF{Lu4F1yIng}
+
+    - ctf_name:      N1CTF 2018
+      problem_name:  baby unity3d
+      points:        909
+      solves:        3
+      description: |
+        Null
+      flag:          N1CTF{h4ppy_W1TH_1l2cpp}
+
+
   Hard:
+    - ctf_name:      N1CTF 2018
+      problem_name:  OldDriver of Akina
+      points:        1000
+      solves:        1
+      description: |
+        I have a great image for you. but how to open it?
+        Hint1 : Do you know how to map the data to an interval in the real axis?
+        Hint2 : Can you convert the code to a "function"?
+      flag:          N1CTF{olD_Driv3r_Has_a_1mg_For_you}
