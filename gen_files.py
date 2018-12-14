@@ -2,6 +2,9 @@
 import yaml
 import os
 
+def escape_path(s):
+    return s.replace(' ', '_').replace('/', '_')
+
 def gen_main_readme(conf):
     f = open('README.md', 'w')
     f.write("# Reversing Challenges List\n")
@@ -15,7 +18,7 @@ def gen_main_readme(conf):
         for p in problems[c]:
             ctf_name = p['ctf_name']
             problem_name = str(p['problem_name'])
-            f.write(' * [{0:s} : {1:s}]({2:s}/{3:s}/README.md)\n'.format(ctf_name, problem_name, c.replace(' ', '_'), ctf_name.replace(' ', '_') + '_' + problem_name.replace(' ', '_')))
+            f.write(' * [{0:s} : {1:s}]({2:s}/{3:s}/README.md)\n'.format(ctf_name, problem_name, escape_path(c), escape_path(ctf_name) + '_' + escape_path(problem_name)))
         f.write('\n')
 
     f.close()
@@ -30,7 +33,7 @@ def gen_problem_dirs(conf):
             ctf_name = p['ctf_name']
             problem_name = str(p['problem_name'])
             try:
-                os.makedirs('{0:s}/{1:s}'.format(c.replace(' ', '_'), ctf_name.replace(' ', '_') + '_' + problem_name.replace(' ', '_')))
+                os.makedirs('{0:s}/{1:s}'.format(escape_path(c), escape_path(ctf_name) + '_' + escape_path(problem_name)))
             except FileExistsError:
                 pass
 
@@ -55,18 +58,18 @@ def gen_writeup(writeup_path, ctf_name, problem_name, flag):
 def gen_problem_files(conf):
     criterions = conf['criterions']
     problems = conf['problems']
-    for c in criterions:
-        if problems[c] is None:
+    for criterion in criterions:
+        if problems[criterion] is None:
             continue
-        for p in problems[c]:
+        for p in problems[criterion]:
             ctf_name = p['ctf_name']
             problem_name = str(p['problem_name'])
             points = p['points']
             solves = p['solves']
             description = p['description']
-            flag = p['flag']
+            flag = str(p['flag'])
 
-            path = '{0:s}/{1:s}/'.format(c.replace(' ', '_'), ctf_name.replace(' ', '_') + '_' + problem_name.replace(' ', '_'))
+            path = '{0:s}/{1:s}/'.format(escape_path(criterion), escape_path(ctf_name) + '_' + escape_path(problem_name))
             readme_path = path + 'README.md'
             writeup_path = path + 'writeup.md'
             if os.path.exists(readme_path):
