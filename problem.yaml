@@ -428,6 +428,31 @@ problems:
         password on the air :)
       flag:          flag{SmartCfg}
 
+    - ctf_name:      PlaidCTF 2018
+      problem_name:  Plaid Adventure
+      points:        200
+      solves:        15
+      description: |
+        It is pitch black.
+        You are likely to be eaten by a grue.
+        Hint: "You can find the yellow orb in the maze."
+      flag:          PCTF{Tw1styL1ttl3Fl4g}
+
+    - ctf_name:      PlaidCTF 2018
+      problem_name:  APLunatic
+      points:        125
+      solves:        16
+      description: |
+        APL (ˌæ'pɪel) n. A Programming Language
+        See: http://tryapl.org/
+        https://tio.run/#apl-dyalog
+        https://ngn.github.io/apl/
+        lunatic (ˈluːnətɪk) n. A person who is insane
+        See: APL Programmers
+        aplunatic (ˌæpluːnətɪk) n. This challenge
+        4o6VSU/ihpAw4ouEJ0JJRcKwP8K9PklMwr1FLiEhPEUhOkU4NMKlwrjCskUyM8OFOMK7OTY4J3t74o21KH7ijbUpLydzdWNjZXNzJyAnZmFpbCd94oqDKCsv4o26PeKOlVVDUyAxMyt7Ky/ijbUv4oy9MirijbPijbTijbV9wqgsLzMzIDjijbQoOMOX4o204o21KeKNtDfijL3ijYkoLeKMiijijbQnZjB4dHIwdCcpw7cyKeKMveKNiTExIDI04o204oiKe2HiiaA44oaRKDAsYeKGkCg44o20MiniiqTijbUpfcKo4oy94o6VVUNTIOKNtSk94o204o26fSdJTlBVVCBIRVJFJwo=
+      flag:          PCTF{APL_code_is_we!rd_t0_l00k_@}
+
   Hard:
     - ctf_name:      N1CTF 2018
       problem_name:  OldDriver of Akina

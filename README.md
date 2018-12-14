@@ -54,6 +54,8 @@
  * [N1CTF 2018 : baby unity3d](Medium_Hard/N1CTF_2018_baby_unity3d/README.md)
  * [0CTF/TCTF 2018 Quals : Milk Tea Machine](Medium_Hard/0CTF_TCTF_2018_Quals_Milk_Tea_Machine/README.md)
  * [0CTF/TCTF 2018 Quals : Provisioning](Medium_Hard/0CTF_TCTF_2018_Quals_Provisioning/README.md)
+ * [PlaidCTF 2018 : Plaid Adventure](Medium_Hard/PlaidCTF_2018_Plaid_Adventure/README.md)
+ * [PlaidCTF 2018 : APLunatic](Medium_Hard/PlaidCTF_2018_APLunatic/README.md)
 
 ## Hard
  * [N1CTF 2018 : OldDriver of Akina](Hard/N1CTF_2018_OldDriver_of_Akina/README.md)
