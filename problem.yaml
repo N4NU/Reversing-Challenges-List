@@ -114,6 +114,15 @@ problems:
         You must solve steps 1 and 2 first.
       flag:          Did_you_like_signals?
 
+    - ctf_name:      ASIS CTF 2018 Quals
+      problem_name:  Warm up
+      points:        27
+      solves:        283
+      description: |
+        Must-Have Pre-Workout Warm up Challenge.
+      flag:          ASIS{hi_all_w31c0m3_to_ASISCTF}
+
+
   Easy:
 
     - ctf_name:      SSCTF 2016
@@ -212,6 +221,48 @@ problems:
       description: |
         Null
       flag:          '*ctf{h0w_m4ny_x0r_3qu1v4l3n7_3xpr35510n_y0u_kn0wlol}'
+
+    - ctf_name:      ASIS CTF 2018 Quals
+      problem_name:  baby C
+      points:        74
+      solves:        68
+      description: |
+        This babyc needed swaddling!
+        flag is ASIS{sha1(input[:14])} 
+      flag:          ASIS{574a1ebc69c34903a4631820f292d11fcd41b906}
+
+    - ctf_name:      ASIS CTF 2018 Quals
+      problem_name:  Echo
+      points:        80
+      solves:        62
+      description: |
+        The simplest echo in the world.
+        Note: flag{whatyoufound}, submit ASIS{sha1(whatyoufound)} 
+      flag:          ASIS{7928cc0d0f66530a42d5d3a06f94bdc24f0492ff}
+
+    - ctf_name:      ASIS CTF 2018 Quals
+      problem_name:  Left or Right?
+      points:        88
+      solves:        Null
+      description: |
+        Right vs Left vs Right vs Left
+      flag:          ASIS{Rust_!s_Right_i5_rust_!5_rust_but_rust_!s_no7_left}
+
+    - ctf_name:      ASIS CTF 2018 Quals
+      problem_name:  Density
+      points:        148
+      solves:        27
+      description: |
+        Keep it short and simple
+      flag:          ASIS{01d_4Nd_GoLD_ASIS_1De4_4H4t_g0e5_f0r_ls!}
+
+    - ctf_name:      ASIS CTF 2018 Quals
+      problem_name:  Heavy makeup
+      points:        248
+      solves:        Null
+      description: |
+        Many women wear facial makeup to accentuate their appeal and attractiveness, but we think faces with light makeup are better than faces with heavy makeup. What's your opinion?
+      flag:          ASIS{C3llul4r_mEs5ag3_EncrypT1on_Alg0ri7hm_(CMEA)_is_a_blOck_ciph3r_which_w4S_us3d_for_secUrin9_mobiL3_PhoN35_in_tH3_US!!}
 
   Medium Medium:
     - ctf_name:      Boston Key Party CTF 2016
@@ -331,6 +382,14 @@ problems:
       description: |
         Webassembly is interesting.
       flag:          '*ctf{web4ss3mbly_1s_god}'
+
+    - ctf_name:      ASIS CTF 2018 Quals
+      problem_name:  The true origin
+      points:        394
+      solves:        Null
+      description: |
+        Find the true origin of this algorithm!
+      flag:          ASIS{65e05d26ea3f3a2518e29fa77744f2b0}
 
   Medium Hard:
     - ctf_name:      N1CTF 2018

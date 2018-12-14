@@ -10,6 +10,7 @@
  * [Nuit du Hack CTF Quals 2016 : Matriochka - Step 1](Baby/Nuit_du_Hack_CTF_Quals_2016_Matriochka_-_Step_1/README.md)
  * [Nuit du Hack CTF Quals 2016 : Matriochka - Step 2](Baby/Nuit_du_Hack_CTF_Quals_2016_Matriochka_-_Step_2/README.md)
  * [Nuit du Hack CTF Quals 2016 : Matriochka - Step 3](Baby/Nuit_du_Hack_CTF_Quals_2016_Matriochka_-_Step_3/README.md)
+ * [ASIS CTF 2018 Quals : Warm up](Baby/ASIS_CTF_2018_Quals_Warm_up/README.md)
 
 ## Easy
  * [SSCTF 2016 : Re1](Easy/SSCTF_2016_Re1/README.md)
@@ -26,6 +27,11 @@
  * [VolgaCTF 2016 Quals : Broken](Medium_Easy/VolgaCTF_2016_Quals_Broken/README.md)
  * [PlaidCTF 2016 : quick](Medium_Easy/PlaidCTF_2016_quick/README.md)
  * [starctf 2018 : milktea](Medium_Easy/starctf_2018_milktea/README.md)
+ * [ASIS CTF 2018 Quals : baby C](Medium_Easy/ASIS_CTF_2018_Quals_baby_C/README.md)
+ * [ASIS CTF 2018 Quals : Echo](Medium_Easy/ASIS_CTF_2018_Quals_Echo/README.md)
+ * [ASIS CTF 2018 Quals : Left or Right?](Medium_Easy/ASIS_CTF_2018_Quals_Left_or_Right?/README.md)
+ * [ASIS CTF 2018 Quals : Density](Medium_Easy/ASIS_CTF_2018_Quals_Density/README.md)
+ * [ASIS CTF 2018 Quals : Heavy makeup](Medium_Easy/ASIS_CTF_2018_Quals_Heavy_makeup/README.md)
 
 ## Medium Medium
  * [Boston Key Party CTF 2016 : unholy](Medium_Medium/Boston_Key_Party_CTF_2016_unholy/README.md)
@@ -41,6 +47,7 @@
  * [starctf 2018 : fans_of_xdd](Medium_Medium/starctf_2018_fans_of_xdd/README.md)
  * [starctf 2018 : BabyDroid](Medium_Medium/starctf_2018_BabyDroid/README.md)
  * [starctf 2018 : wasm](Medium_Medium/starctf_2018_wasm/README.md)
+ * [ASIS CTF 2018 Quals : The true origin](Medium_Medium/ASIS_CTF_2018_Quals_The_true_origin/README.md)
 
 ## Medium Hard
  * [N1CTF 2018 : LFI](Medium_Hard/N1CTF_2018_LFI/README.md)
