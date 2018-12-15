@@ -165,6 +165,14 @@ problems:
         Null
       flag:          Flag{S0me0fU5#4r3L00king#AtTh3St4rs}
 
+    - ctf_name:      Google CTF 2018 Quals
+      problem_name:  Shall we play a game?
+      points:        113
+      solves:        111
+      description: |
+        Win the game 1,000,000 times to get the flag.
+      flag:          CTF{ThLssOfInncncIsThPrcOfAppls}
+
   Medium Easy:
     - ctf_name:      SSCTF 2016 Quals
       problem_name:  Re2
@@ -390,6 +398,15 @@ problems:
       description: |
         Find the true origin of this algorithm!
       flag:          ASIS{65e05d26ea3f3a2518e29fa77744f2b0}
+
+    - ctf_name:      Google CTF 2018 Quals
+      problem_name:  Back to the BASICs
+      points:        293
+      solves:        21
+      description: |
+        You won't find any assembly in this challenge, only C64 BASIC. Once you get the password, the flag is CTF{password}.
+        P.S. The challenge has been tested on the VICE emulator.
+      flag:          CTF{LINKED-LISTS-AND-40-BIT-FLOATS}
 
   Medium Hard:
     - ctf_name:      N1CTF 2018

@@ -18,6 +18,7 @@
  * [Codegate CTF 2018 Preliminary : RedVelvet](Easy/Codegate_CTF_2018_Preliminary_RedVelvet/README.md)
  * [Codegate CTF 2018 Preliminary : Welcome to droid](Easy/Codegate_CTF_2018_Preliminary_Welcome_to_droid/README.md)
  * [Codegate CTF 2018 Preliminary : easy_serial](Easy/Codegate_CTF_2018_Preliminary_easy_serial/README.md)
+ * [Google CTF 2018 Quals : Shall we play a game?](Easy/Google_CTF_2018_Quals_Shall_we_play_a_game?/README.md)
 
 ## Medium Easy
  * [SSCTF 2016 Quals : Re2](Medium_Easy/SSCTF_2016_Quals_Re2/README.md)
@@ -48,6 +49,7 @@
  * [starctf 2018 : BabyDroid](Medium_Medium/starctf_2018_BabyDroid/README.md)
  * [starctf 2018 : wasm](Medium_Medium/starctf_2018_wasm/README.md)
  * [ASIS CTF 2018 Quals : The true origin](Medium_Medium/ASIS_CTF_2018_Quals_The_true_origin/README.md)
+ * [Google CTF 2018 Quals : Back to the BASICs](Medium_Medium/Google_CTF_2018_Quals_Back_to_the_BASICs/README.md)
 
 ## Medium Hard
  * [N1CTF 2018 : LFI](Medium_Hard/N1CTF_2018_LFI/README.md)
