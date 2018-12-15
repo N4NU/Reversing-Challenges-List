@@ -50,6 +50,7 @@
  * [starctf 2018 : wasm](Medium_Medium/starctf_2018_wasm/README.md)
  * [ASIS CTF 2018 Quals : The true origin](Medium_Medium/ASIS_CTF_2018_Quals_The_true_origin/README.md)
  * [Google CTF 2018 Quals : Back to the BASICs](Medium_Medium/Google_CTF_2018_Quals_Back_to_the_BASICs/README.md)
+ * [CSAW CTF 2018 Quals : kvm](Medium_Medium/CSAW_CTF_2018_Quals_kvm/README.md)
 
 ## Medium Hard
  * [N1CTF 2018 : LFI](Medium_Hard/N1CTF_2018_LFI/README.md)
@@ -58,6 +59,7 @@
  * [0CTF/TCTF 2018 Quals : Provisioning](Medium_Hard/0CTF_TCTF_2018_Quals_Provisioning/README.md)
  * [PlaidCTF 2018 : Plaid Adventure](Medium_Hard/PlaidCTF_2018_Plaid_Adventure/README.md)
  * [PlaidCTF 2018 : APLunatic](Medium_Hard/PlaidCTF_2018_APLunatic/README.md)
+ * [CSAW CTF 2018 Quals : 1337](Medium_Hard/CSAW_CTF_2018_Quals_1337/README.md)
 
 ## Hard
  * [N1CTF 2018 : OldDriver of Akina](Hard/N1CTF_2018_OldDriver_of_Akina/README.md)

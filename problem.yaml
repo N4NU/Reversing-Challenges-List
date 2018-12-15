@@ -408,6 +408,15 @@ problems:
         P.S. The challenge has been tested on the VICE emulator.
       flag:          CTF{LINKED-LISTS-AND-40-BIT-FLOATS}
 
+    - ctf_name:      CSAW CTF 2018 Quals
+      problem_name:  kvm
+      points:        500
+      solves:        58
+      description: |
+        We found a mysterious program that none of our most talented hackers could even begin to figure out.
+        Author: toshi
+      flag:          flag{who would win? 100 ctf teams or 1 obfuscat3d boi?}
+
   Medium Hard:
     - ctf_name:      N1CTF 2018
       problem_name:  LFI
@@ -469,6 +478,15 @@ problems:
         aplunatic (ˌæpluːnətɪk) n. This challenge
         4o6VSU/ihpAw4ouEJ0JJRcKwP8K9PklMwr1FLiEhPEUhOkU4NMKlwrjCskUyM8OFOMK7OTY4J3t74o21KH7ijbUpLydzdWNjZXNzJyAnZmFpbCd94oqDKCsv4o26PeKOlVVDUyAxMyt7Ky/ijbUv4oy9MirijbPijbTijbV9wqgsLzMzIDjijbQoOMOX4o204o21KeKNtDfijL3ijYkoLeKMiijijbQnZjB4dHIwdCcpw7cyKeKMveKNiTExIDI04o204oiKe2HiiaA44oaRKDAsYeKGkCg44o20MiniiqTijbUpfcKo4oy94o6VVUNTIOKNtSk94o204o26fSdJTlBVVCBIRVJFJwo=
       flag:          PCTF{APL_code_is_we!rd_t0_l00k_@}
+
+    - ctf_name:      CSAW CTF 2018 Quals
+      problem_name:  '1337'
+      points:        500
+      solves:        4
+      description: |
+        1337 hax0rz for the win
+        Hint: change your system to hebrew
+      flag:          flag{4.\/3ry.1337.|>45$vVp@9/}
 
   Hard:
     - ctf_name:      N1CTF 2018
