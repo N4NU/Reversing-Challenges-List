@@ -1,20 +1,18 @@
-# 各難易度の目安
+# Criterion of each levels / 各難易度の目安
 ## Baby
-- 10分
-- 早解きゲーム
-- 入力と1バイトずつ比較
+- 10 minutes
 
 ## Easy
-- 30分
+- 30 minutes
 
 ## Medium Easy
-- 1時間
+- 1 hour
 
 ## Medium Medium
-- 3時間
+- 3 hours
 
 ## Medium Hard
-- 6時間
+- 6 hours
 
 ## Hard
-- 12時間
+- 12 hours
