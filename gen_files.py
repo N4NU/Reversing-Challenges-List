@@ -7,7 +7,12 @@ def escape_path(s):
 
 def gen_main_readme(conf):
     f = open('README.md', 'w')
-    f.write("# Reversing Challenges List\n")
+
+    f.write("# Reversing Challenges List\n\n")
+    msg = ''
+    msg += 'If there is no writeup about reversing tasks of past CTF and you need, please make the issue.\n\n'
+    msg += '過去のCTFのrev問でwriteupが無かったり，日本語のwriteupがほしい場合にissueを立ててくれれば出来るだけ解いて日本語のwriteupを書いていこうと思います．\n\n'
+    f.write(msg)
     
     criterions = conf['criterions']
     problems = conf['problems']
