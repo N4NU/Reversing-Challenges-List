@@ -1,0 +1,143 @@
+- ctf_name:      Boston Key Party CTF 2016
+  problem_name:  unholy
+  points:        4
+  solves:        61
+  description: |
+    python or ruby? why not both!
+  flag:          BKPCTF{hmmm _why did i even do this}
+
+- ctf_name:      0CTF 2016 Quals
+  problem_name:  trace
+  points:        4
+  solves:        33
+  description: |
+    follow the trace trace.log
+    update:
+    the flag is at 0x400D80
+    (uint32_t)0x00410EA0 == 0x400D80
+  flag:          0ctf{tr135m1k5l96551s9l5r}
+
+- ctf_name:      Nuit du Hack CTF Quals 2016
+  problem_name:  Matriochka - Step 4
+  points:        500
+  solves:        51
+  description: |
+    Recently, I found an executable binary.
+    As I'm a true newbie,
+    Certainly, to solve it, I will have difficulties.
+    Keep in mind, the first step is quite easy.
+    Maybe the last one will be quite tricky.
+    Emulating it could be a good idea.
+    You must solve steps 1, 2 and 3 first.
+  flag:          Ddr1ml/frf
+
+- ctf_name:      PlaidCTF 2016
+  problem_name:  quite quixotic quest
+  points:        300
+  solves:        40
+  description: |
+    Well yes, it certainly is quite quixotic. (Yes, the flag format is PCTF{} )
+  flag:          PCTF{just_a_l1ttle_thing_1_l1ke_t0_call_ropfuscation}
+
+- ctf_name:      Codegate CTF 2018 Preliminary
+  problem_name:  '6051'
+  points:        880
+  solves:        11
+  description: |
+    find the flag
+  flag:          FLAG{w0w_w0w_w0w_s1mp13_str1n9_c0mpr3ss10n_1011110100011}
+
+- ctf_name:      N1CTF 2018
+  problem_name:  patience
+  points:        769
+  solves:        7
+  description: |
+    You will get the flag...... eventually!
+  flag:          N1CTF{did_cmm_helped?1109ef6af4b2c6fc274ddc16ff8365d1}
+
+- ctf_name:      N1CTF 2018
+  problem_name:  baby_neural_network
+  points:        740
+  solves:        8
+  description: |
+    Null
+  flag:          N1CTF{N3ural_Network_1s_Really_Fantastic}
+
+- ctf_name:      0CTF/TCTF 2018 Quals
+  problem_name:  g0g0g0
+  points:        343
+  solves:        Null
+  description: |
+    mdZero says that he has tons of excellent tools. However, he has never showed his magic to us before. "They are all stored in my mobile HDD. At home, not here". That's what he told us when we were asking, every time!
+    Once, we forced him to tell us, or he would be sent to cops. Then he take out this one from his pocket. Could you help me to figure out what is it?
+    To verify your answer, please visit:
+    nc 202.120.7.206 13337
+  flag:          269103113846520710198086599018316928810831097261381335767926880507079911347095440987749703663156874995907158014866846058485318408629957749519665987782327830143454337518378955846463785600977, 221855981602380704196804518854316541759883857932028285581812549404634844243737502744011549757448453135493556098964216532950604590733853450272184987603430882682754171300742698179931849310347, 4862378745380642626737318101484977637219057323564658907686653339599714454790559130946320953938197181210525554039710122136086190642013402927952831079021210585653078786813279351784906397934209
+
+- ctf_name:      0CTF/TCTF 2018 Quals
+  problem_name:  udp
+  points:        305
+  solves:        Null
+  description: |
+    too many udp
+  flag:          flag{12491f295fb0}
+
+- ctf_name:      0CTF/TCTF 2018 Quals
+  problem_name:  Baby VM
+  points:        423
+  solves:        Null
+  description: |
+    Flag is in the current directory with name "flag.txt".
+  flag:          Null
+
+- ctf_name:      starctf 2018
+  problem_name:  fans_of_xdd
+  points:        952
+  solves:        2
+  description: |
+    I'm new to ctf. I don't know how to reenigne, so x140dada tell me that, i should learn it by reading this file. Can you help me?
+    you need a mac, sorry to windows/linux users
+  flag:          '*ctf{i_4m_not_b1G_fAns_0f_M4c5cr1pT>.<}'
+
+- ctf_name:      starctf 2018
+  problem_name:  BabyDroid
+  points:        645
+  solves:        12
+  description: |
+    Hint1 : It's not neccessary to run the apk. If you want to run it, we suggest you to use Android with Dalvik on real phone. If you failed to run the apk, pls just try to reverse it statically.
+    Hint2 : submit *ctf{what_you_input}
+  flag:          '*ctf{1nTr3stIng-AnDr0id-A&D!}'
+
+- ctf_name:      starctf 2018
+  problem_name:  wasm
+  points:        714
+  solves:        9
+  description: |
+    Webassembly is interesting.
+  flag:          '*ctf{web4ss3mbly_1s_god}'
+
+- ctf_name:      ASIS CTF 2018 Quals
+  problem_name:  The true origin
+  points:        394
+  solves:        Null
+  description: |
+    Find the true origin of this algorithm!
+  flag:          ASIS{65e05d26ea3f3a2518e29fa77744f2b0}
+
+- ctf_name:      Google CTF 2018 Quals
+  problem_name:  Back to the BASICs
+  points:        293
+  solves:        21
+  description: |
+    You won't find any assembly in this challenge, only C64 BASIC. Once you get the password, the flag is CTF{password}.
+    P.S. The challenge has been tested on the VICE emulator.
+  flag:          CTF{LINKED-LISTS-AND-40-BIT-FLOATS}
+
+- ctf_name:      CSAW CTF 2018 Quals
+  problem_name:  kvm
+  points:        500
+  solves:        58
+  description: |
+    We found a mysterious program that none of our most talented hackers could even begin to figure out.
+    Author: toshi
+  flag:          flag{who would win? 100 ctf teams or 1 obfuscat3d boi?}

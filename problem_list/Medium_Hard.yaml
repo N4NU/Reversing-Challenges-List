@@ -1,0 +1,69 @@
+- ctf_name:      N1CTF 2018
+  problem_name:  LFI
+  points:        833
+  solves:        5
+  description: |
+    Please use LuaJIT 2.0.5 to run.
+    Hint1 : T-boxes:11(10 useful+1 null)*16*256 TyiTables:4*256*4
+    Hint2 : dynamic link version: https://www.dropbox.com/s/jbha9z3b5jxkt43/LFI_DynamicLink.zip?dl=0
+    Hint: If you can't understand func1, you can reverse func2(which is loaded at runtime) first to get some ideas.
+  flag:          N1CTF{Lu4F1yIng}
+
+- ctf_name:      N1CTF 2018
+  problem_name:  baby unity3d
+  points:        909
+  solves:        3
+  description: |
+    Null
+  flag:          N1CTF{h4ppy_W1TH_1l2cpp}
+
+- ctf_name:      0CTF/TCTF 2018 Quals
+  problem_name:  Milk Tea Machine
+  points:        647
+  solves:        Null
+  description: |
+    I found this milk tea machine, but it requires a coupon.
+    Do you know what the coupon is?
+  flag:          flag{a_m1lkt3a_4_d4y_k33p5_the_d0ct0r_AWAY}
+
+- ctf_name:      0CTF/TCTF 2018 Quals
+  problem_name:  Provisioning
+  points:        785
+  solves:        Null
+  description: |
+    password on the air :)
+  flag:          flag{SmartCfg}
+
+- ctf_name:      PlaidCTF 2018
+  problem_name:  Plaid Adventure
+  points:        200
+  solves:        15
+  description: |
+    It is pitch black.
+    You are likely to be eaten by a grue.
+    Hint: "You can find the yellow orb in the maze."
+  flag:          PCTF{Tw1styL1ttl3Fl4g}
+
+- ctf_name:      PlaidCTF 2018
+  problem_name:  APLunatic
+  points:        125
+  solves:        16
+  description: |
+    APL (ˌæ'pɪel) n. A Programming Language
+    See: http://tryapl.org/
+    https://tio.run/#apl-dyalog
+    https://ngn.github.io/apl/
+    lunatic (ˈluːnətɪk) n. A person who is insane
+    See: APL Programmers
+    aplunatic (ˌæpluːnətɪk) n. This challenge
+    4o6VSU/ihpAw4ouEJ0JJRcKwP8K9PklMwr1FLiEhPEUhOkU4NMKlwrjCskUyM8OFOMK7OTY4J3t74o21KH7ijbUpLydzdWNjZXNzJyAnZmFpbCd94oqDKCsv4o26PeKOlVVDUyAxMyt7Ky/ijbUv4oy9MirijbPijbTijbV9wqgsLzMzIDjijbQoOMOX4o204o21KeKNtDfijL3ijYkoLeKMiijijbQnZjB4dHIwdCcpw7cyKeKMveKNiTExIDI04o204oiKe2HiiaA44oaRKDAsYeKGkCg44o20MiniiqTijbUpfcKo4oy94o6VVUNTIOKNtSk94o204o26fSdJTlBVVCBIRVJFJwo=
+  flag:          PCTF{APL_code_is_we!rd_t0_l00k_@}
+
+- ctf_name:      CSAW CTF 2018 Quals
+  problem_name:  '1337'
+  points:        500
+  solves:        4
+  description: |
+    1337 hax0rz for the win
+    Hint: change your system to hebrew
+  flag:          flag{4.\/3ry.1337.|>45$vVp@9/}

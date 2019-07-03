@@ -1,0 +1,47 @@
+- ctf_name:      SSCTF 2016
+  problem_name:  Re1
+  points:        100
+  solves:        83
+  description: |
+    Null
+  flag:          SSCTF{oty3eaP$g986iwhw32j%OJ)g0o7J.CG:}
+
+- ctf_name:      0CTF 2016 Quals
+  problem_name:  boomshakalaka
+  points:        3
+  solves:        35
+  description: |
+    play the game, get the highest score
+  flag:          0ctf{C0coS2d_AnDro1d_G0mE_YoU_Kn0w?}
+
+- ctf_name:      Codegate CTF 2018 Preliminary
+  problem_name:  RedVelvet
+  points:        75
+  solves:        126
+  description: |
+    Happiness:)
+  flag:          What_You_Wanna_Be?:)_la_la
+
+- ctf_name:      Codegate CTF 2018 Preliminary
+  problem_name:  Welcome to droid
+  points:        125
+  solves:        71
+  description: |
+    > o <
+  flag:          FLAG{W3_w3r3_Back_70_$3v3n7een!!!}
+
+- ctf_name:      Codegate CTF 2018 Preliminary
+  problem_name:  easy_serial
+  points:        350
+  solves:        40
+  description: |
+    Null
+  flag:          Flag{S0me0fU5#4r3L00king#AtTh3St4rs}
+
+- ctf_name:      Google CTF 2018 Quals
+  problem_name:  Shall we play a game?
+  points:        113
+  solves:        111
+  description: |
+    Win the game 1,000,000 times to get the flag.
+  flag:          CTF{ThLssOfInncncIsThPrcOfAppls}

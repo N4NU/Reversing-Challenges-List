@@ -1,0 +1,9 @@
+    - ctf_name:      N1CTF 2018
+      problem_name:  OldDriver of Akina
+      points:        1000
+      solves:        1
+      description: |
+        I have a great image for you. but how to open it?
+        Hint1 : Do you know how to map the data to an interval in the real axis?
+        Hint2 : Can you convert the code to a "function"?
+      flag:          N1CTF{olD_Driv3r_Has_a_1mg_For_you}

@@ -1,0 +1,97 @@
+- ctf_name:      SSCTF 2016 Quals
+  problem_name:  Re2
+  points:        200
+  solves:        53
+  description: |
+    Do You Like Bad Apple
+  flag:          JZZZXZYP{8ZBIzPL0HPAFwdqZ{3ZXRad
+  
+- ctf_name:      SSCTF 2016 Quals
+  problem_name:  Re3
+  points:        300
+  solves:        32
+  description: |
+    I Am The Prompt。
+  flag:          f5b760b64D867618fFeF48FdE92B4e5d
+  
+- ctf_name:      Boston Key Party CTF 2016
+  problem_name:  Jit in my pants
+  points:        3
+  solves:        38
+  description: |
+    Because reversing an obfuscated jit'ed virtual machine for 3 points is fun!
+  flag:          BKPCTF{S1de_Ch4nnel_att4cks_are_s0_1338}
+  
+- ctf_name:      0CTF 2016 Quals
+  problem_name:  momo
+  points:        3
+  solves:        31
+  description: |
+    I think it's hard winning a war with words.
+  flag:          0ctf{m0V_I5_tUr1N9_c0P1Et3!}
+  
+- ctf_name:      VolgaCTF 2016 Quals
+  problem_name:  Broken
+  points:        200
+  solves:        
+  description: |
+    This might be a part of GAI, but it must have been broken... Could you fix it?
+  flag:          VolgaCTF{avoid_de@dl0cks_they_br3akyour@pp}
+  
+- ctf_name:      PlaidCTF 2016
+  problem_name:  quick
+  points:        175
+  solves:        49
+  description: |
+    Why be slow when you can be quick?
+  flag:          PCTF{5ur3_a5_5ur3_5w1ft_a5_5w1ft}
+
+- ctf_name:      starctf 2018
+  problem_name:  milktea
+  points:        526
+  solves:        19
+  description: |
+    Null
+  flag:          '*ctf{h0w_m4ny_x0r_3qu1v4l3n7_3xpr35510n_y0u_kn0wlol}'
+
+- ctf_name:      ASIS CTF 2018 Quals
+  problem_name:  baby C
+  points:        74
+  solves:        68
+  description: |
+    This babyc needed swaddling!
+    flag is ASIS{sha1(input[:14])} 
+  flag:          ASIS{574a1ebc69c34903a4631820f292d11fcd41b906}
+
+- ctf_name:      ASIS CTF 2018 Quals
+  problem_name:  Echo
+  points:        80
+  solves:        62
+  description: |
+    The simplest echo in the world.
+    Note: flag{whatyoufound}, submit ASIS{sha1(whatyoufound)} 
+  flag:          ASIS{7928cc0d0f66530a42d5d3a06f94bdc24f0492ff}
+
+- ctf_name:      ASIS CTF 2018 Quals
+  problem_name:  Left or Right?
+  points:        88
+  solves:        Null
+  description: |
+    Right vs Left vs Right vs Left
+  flag:          ASIS{Rust_!s_Right_i5_rust_!5_rust_but_rust_!s_no7_left}
+
+- ctf_name:      ASIS CTF 2018 Quals
+  problem_name:  Density
+  points:        148
+  solves:        27
+  description: |
+    Keep it short and simple
+  flag:          ASIS{01d_4Nd_GoLD_ASIS_1De4_4H4t_g0e5_f0r_ls!}
+
+- ctf_name:      ASIS CTF 2018 Quals
+  problem_name:  Heavy makeup
+  points:        248
+  solves:        Null
+  description: |
+    Many women wear facial makeup to accentuate their appeal and attractiveness, but we think faces with light makeup are better than faces with heavy makeup. What's your opinion?
+  flag:          ASIS{C3llul4r_mEs5ag3_EncrypT1on_Alg0ri7hm_(CMEA)_is_a_blOck_ciph3r_which_w4S_us3d_for_secUrin9_mobiL3_PhoN35_in_tH3_US!!}

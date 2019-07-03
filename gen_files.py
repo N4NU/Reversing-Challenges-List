@@ -15,30 +15,26 @@ def gen_main_readme(conf):
     f.write(msg)
     
     criterions = conf['criterions']
-    problems = conf['problems']
-    for c in criterions:
-        f.write("## " + c + "\n")
-        if problems[c] is None:
-            continue
-        for p in problems[c]:
+    for criterion in criterions:
+        problems = yaml.load(open('./problem_list/' + escape_path(criterion) + '.yaml', 'r').read())
+        f.write("## " + criterion + "\n")
+        for p in problems:
             ctf_name = p['ctf_name']
             problem_name = str(p['problem_name'])
-            f.write(' * [{0:s} : {1:s}]({2:s}/{3:s}/README.md)\n'.format(ctf_name, problem_name, escape_path(c), escape_path(ctf_name) + '_' + escape_path(problem_name)))
+            f.write(' * [{0:s} : {1:s}]({2:s}/{3:s}/README.md)\n'.format(ctf_name, problem_name, escape_path(criterion), escape_path(ctf_name) + '_' + escape_path(problem_name)))
         f.write('\n')
 
     f.close()
 
 def gen_problem_dirs(conf):
     criterions = conf['criterions']
-    problems = conf['problems']
-    for c in criterions:
-        if problems[c] is None:
-            continue
-        for p in problems[c]:
+    for criterion in criterions:
+        problems = yaml.load(open('./problem_list/' + escape_path(criterion) + '.yaml', 'r').read())
+        for p in problems:
             ctf_name = p['ctf_name']
             problem_name = str(p['problem_name'])
             try:
-                os.makedirs('{0:s}/{1:s}'.format(escape_path(c), escape_path(ctf_name) + '_' + escape_path(problem_name)))
+                os.makedirs('{0:s}/{1:s}'.format(escape_path(criterion), escape_path(ctf_name) + '_' + escape_path(problem_name)))
             except FileExistsError:
                 pass
 
@@ -62,11 +58,9 @@ def gen_writeup(writeup_path, ctf_name, problem_name, flag):
 
 def gen_problem_files(conf):
     criterions = conf['criterions']
-    problems = conf['problems']
     for criterion in criterions:
-        if problems[criterion] is None:
-            continue
-        for p in problems[criterion]:
+        problems = yaml.load(open('./problem_list/' + escape_path(criterion) + '.yaml', 'r').read())
+        for p in problems:
             ctf_name = p['ctf_name']
             problem_name = str(p['problem_name'])
             points = p['points']
@@ -83,7 +77,7 @@ def gen_problem_files(conf):
             gen_writeup(writeup_path, ctf_name, problem_name, flag)
             
 def main():
-    conf = yaml.load(open('problem.yaml', 'rb').read())
+    conf = yaml.load(open('conf.yaml', 'r').read())
     gen_main_readme(conf)
     gen_problem_dirs(conf)
     gen_problem_files(conf)
